@@ -1,5 +1,5 @@
-import React, { Component } from 'react'
-import 
+import React, { Component } from 'react';
+import {Media} from 'reactstrap';
 
 class Menu extends Component {
     constructor(props) {
@@ -9,7 +9,9 @@ class Menu extends Component {
         return(
             <div className="container">
                 <div className="row">
-
+                <Media>
+                    
+                </Media>
                 </div>
             </div>
         );
