@@ -9,9 +9,7 @@ class Menu extends Component {
         return(
             <div className="container">
                 <div className="row">
-                <Media>
-                    
-                </Media>
+                <Media></Media>
                 </div>
             </div>
         );
