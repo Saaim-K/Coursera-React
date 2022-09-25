@@ -5,6 +5,7 @@ class Menu extends Component {
         super(props);
     }
     render() {
-
+        return();
     }
 }
+export default Menu;
