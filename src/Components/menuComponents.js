@@ -31,7 +31,7 @@ class Menu extends Component {
                     category: 'appetizer',
                     label: 'New',
                     price: '1.99',
-                    description: 'A quintessential ConFusion experience, is it a vada or is it a donut?'
+                    descripton: 'A quintessential ConFusion experience, is it a vada or is it a donut?'
                 },
                 {
                     id: 3,
